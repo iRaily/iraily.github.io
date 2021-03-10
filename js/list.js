@@ -33,7 +33,7 @@ const d = {
                        "author": "Serpyy",
                        "more": "none",
                        "id": 64352170,
-                       "pass": "Free to Copy",
+                       "pass": "Free Copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://youtu.be/EtGkEOS_jqw",
                        "key": 1
@@ -64,7 +64,7 @@ const d = {
                        "author": "Magma3933",
                        "more": "none",
                        "id": 63009517,
-                       "pass": "Free copy",
+                       "pass": "Free Copy",
                        "percentToQualify": 47,
                        "verificationVid": "https://www.youtube.com/watch?v=ljJYaYUCvyY&t=2s",
                        "key": 2
@@ -121,7 +121,7 @@ const d = {
                        "author": "MP3141",
                        "more": "none",
                        "id": 64360108,
-                       "pass": "Free copy",
+                       "pass": "Free Copy",
                        "percentToQualify": 60,
                        "verificationVid": "https://www.youtube.com/watch?v=OSlBFtnbiXg",
                        "key": 4
@@ -222,7 +222,7 @@ const d = {
 			"author": "PDSydney",
 			"more": "none",
 			"id": 65055123,
-			"pass": "Free to Copy",
+			"pass": "Free Copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=j5VdwQ7lSb4",
 			"key": 9
@@ -241,7 +241,7 @@ const d = {
                        "author": "MP3141",
                        "more": "none",
                        "id": 63348652,
-                       "pass": "Free copy",
+                       "pass": "Free Copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://www.youtube.com/watch?v=5ptxldScVe0",
                        "key": 10
@@ -260,7 +260,7 @@ const d = {
                        "author": "GDTrilogy and more [rCyns]",
                        "more": "TheIcyConey, Unlawful, Wunjo, X1Might",
                        "id": 63730118,
-                       "pass": "Free copy",
+                       "pass": "Free Copy",
                        "percentToQualify": 53,
                        "verificationVid": "https://www.youtube.com/watch?v=KJuIwTTe_xg",
                        "key": 11
@@ -279,7 +279,7 @@ const d = {
 			"author": "MythicalTG",
 			"more": "none",
 			"id": 63863988,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/BO4BV_WbKe0",
 			"key": 12
@@ -298,7 +298,7 @@ const d = {
 			"author": "PDSydney and v1nnyy [PDSydney]",
 			"more": "none",
 			"id": 64210443,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=82-q1q132pY",
 			"key": 13
@@ -348,7 +348,7 @@ const d = {
 			"author": "chsp1230",
 			"more": "none",
 			"id": 66904532,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/CJx8nglZTdk",
 			"key": 15
@@ -367,7 +367,7 @@ const d = {
 			"author": "piesy and JahTheReturn [piesy]",
 			"more": "none",
 			"id": 63976167,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI",
 			"key": 16
@@ -448,7 +448,7 @@ const d = {
 			"author": "Serppy",
 			"more": "none",
 			"id": 60988234,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/amrmrLjyy9Q",
 			"key": 19
@@ -629,7 +629,7 @@ const d = {
             "author": "Serppy [LLunaa]",
             "more": "none",
             "id": 60976052,
-            "pass": "Free copy",
+            "pass": "Free Copy",
             "percentToQualify": 57,
             "verificationVid": "https://youtu.be/nDgBwccdbwk",
             "key": 26
@@ -686,7 +686,7 @@ const d = {
 			"author": "PDSydney",
 			"more": "none",
 			"id": 64427464,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/QcnNvzGOP8g",
 			"key": 29
@@ -805,7 +805,7 @@ const d = {
 			"author": "IntriZ and Glitchstery [IntriZ]",
 			"more": "none",
 			"id": 65196066,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/xMBjqePm-wM",
 			"key": 34
@@ -886,7 +886,7 @@ const d = {
 			"author": "oSpace and more [oSpace]",
 			"more": "AcropolisBoy, Megum, TheKate, ItzShuvon, MiiNi03, heizenn, ImColdBlast, AlexTheGS33",
 			"id": 62034895,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 52,
 			"verificationVid": "https://youtu.be/Zs3wbxEiWy0",
 			"key": 37
@@ -948,7 +948,7 @@ const d = {
 			"author": "AcropolisBoy",
 			"more": "none",
 			"id": 62015030,
-			"pass": "Free to copy",
+			"pass": "Free Copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/Wc_Jj3oWXL0",
 			"key": 39
@@ -1377,7 +1377,7 @@ const d = {
 			"author": "BatryzzGD and JUUTED [MarpTheCarp]",
 			"more": "none",
 			"id": 65805216,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/INHvz4UBceU",
 			"key": 54
@@ -1439,7 +1439,7 @@ const d = {
 			"author": "MiiNi03",
 			"more": "none",
 			"id": 59680007,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/d14djfj-5Lo",
 			"key": 56
@@ -1458,7 +1458,7 @@ const d = {
 			"author": "GabeLucario",
 			"more": "none",
 			"id": 65144287,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/FnDMfSykL_Q",
 			"key": 57
@@ -1520,7 +1520,7 @@ const d = {
 			"author": "AcropolisBoy [rxmmy]",
 			"more": "none",
 			"id": 61842730,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/Pk5FkBDoT3M",
 			"key": 59
@@ -1671,7 +1671,7 @@ const d = {
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
 			"more": "none",
 			"id": 64172553,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/5mvKv00ORJo",
 			"key": 66
@@ -1796,7 +1796,7 @@ const d = {
 			"author": "fakeIWNL",
 			"more": "none",
 			"id": 64651847,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/oKalXhqklC0",
 			"key": 71
@@ -2083,7 +2083,7 @@ const d = {
 			"author": "fakeIWNL",
 			"more": "none",
 			"id": 64808336,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/-DJJS6oXLs0",
 			"key": 82
@@ -2120,7 +2120,7 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 57632273,
-			"pass": "Free to copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=c8lLnBVJg1g",
 			"key": 83
@@ -2158,7 +2158,7 @@ const d = {
 			"author": "Serpyy",
 			"more": "none",
 			"id": 58198171,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/-1LNb1Z4Ra0",
 			"key": 85
@@ -2410,7 +2410,7 @@ const d = {
 			"author": "jOnel",
 			"more": "none",
 			"id": 64227671,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 56,
 			"verificationVid": "https://youtu.be/Dih_QOKhhYQ",
 			"key": 97
@@ -2435,7 +2435,7 @@ const d = {
 			"author": "AcropolisBoy [BoundelBoi]",
 			"more": "none",
 			"id": 55367155,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/05y7ifmZSyo",
 			"key": 98
@@ -2473,7 +2473,7 @@ const d = {
 			"author": "TheIcyConey [MatterGMD]",
 			"more": "none",
 			"id": 64415939,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 59,
 			"verificationVid": "https://youtu.be/Ox7xUMn2_0M",
 			"key": 100
@@ -2492,7 +2492,7 @@ const d = {
 			"author": "AcropolisBoy and Whiliams [Bartoldo]",
 			"more": "none",
 			"id": 62509657,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/qmVqQqkM9wQ",
 			"key": 101
@@ -2511,7 +2511,7 @@ const d = {
 			"author": "oSpace and more [oSpace]",
 			"more": "Megum, ItzShuvon, MiiNi03, GDStarStorm",
 			"id": 58294454,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
 			"key": 102
@@ -2618,7 +2618,7 @@ const d = {
                         "author": "MightGD",
                         "more": "none",
                         "id": 64424232,
-                        "pass": "Free copy",
+                        "pass": "Free Copy",
                         "percentToQualify": 64,
                         "verificationVid": "https://youtu.be/ByY3-YAr3pg",
                         "key": 107
@@ -2782,7 +2782,7 @@ const d = {
 			"author": "GabeLucario and more [GabeLucario]",
 			"more": "Bluestone413, FinnRD, NourTheKing, Jacob, ThatGeraldBoy, GemzL",
 			"id": 66996162,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/jl7s6kP1iVw",
 			"key": 115
@@ -2813,7 +2813,7 @@ const d = {
 			"author": "Serpyy",
 			"more": "none",
 			"id": 57580516,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/I7BGa0HFusI",
 			"key": 116
@@ -2832,7 +2832,7 @@ const d = {
 			"author": "GabeLucario and Aassbll [GabeLucario]",
 			"more": "none",
 			"id": 66655217,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/PcYHqZO5Bhs",
 			"key": 117
@@ -2863,7 +2863,7 @@ const d = {
 			"author": "Serpyy and more [Serpyy]",
 			"more": "Keleru, Segone",
 			"id": 61345238,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=0JPGc9NLaU0",
 			"key": 118
@@ -2963,7 +2963,7 @@ const d = {
                         "author": "IntriZ",
                         "more": "none",
                         "id": 64531013,
-                        "pass": "Free copy",
+                        "pass": "Free Copy",
                         "percentToQualify": 51,
                         "verificationVid": "https://youtu.be/8b5Pf4DJ8ko",
                         "key": 122
@@ -3000,7 +3000,7 @@ const d = {
 			"author": "Serpyy",
 			"more": "none",
 			"id": 53652263,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/s9tbL0aa21U",
 			"key": 123
@@ -3031,7 +3031,7 @@ const d = {
 			"author": "AcropolisBoy [timckic]",
 			"more": "none",
 			"id": 60598375,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=6Y9PDKwLzXM",
 			"key": 124
@@ -3125,7 +3125,7 @@ const d = {
 			"author": "GDMeric and  IIITemporexIII [GDMeric]",
 			"more": "none",
 			"id": 64998042,
-			"pass": "Free To Copy",
+			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/SGTKhFGp5es",
 			"key": 128
@@ -3181,7 +3181,7 @@ const d = {
 			"author": "Megum and more [Megum]",
 			"more": "AcropolisBoy, Serpyy, ItzShuvon, MiiNi03, heizenn, Keleru, GDStarStorm, SoyNadie",
 			"id": 58965186,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=5UTJ5-_WQNs",
 			"key": 130
@@ -3231,7 +3231,7 @@ const d = {
 			"author": "PDSydney",
 			"more": "none",
 			"id": 64412533,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/8ISvmm1_JJ8",
 			"key": 132
@@ -3275,7 +3275,7 @@ const d = {
                         "author": "GamerbossPlayz and IntriZ  [GamerbossPlayz]",
                         "more": "none",
                         "id": 64206279,
-                        "pass": "Free copy",
+                        "pass": "Free Copy",
                         "percentToQualify": 63,
                         "verificationVid": "https://youtu.be/mfegXLfQSLc",
                         "key": 134
@@ -3436,7 +3436,7 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 57833596,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
 			"key": 139
@@ -3455,7 +3455,7 @@ const d = {
 			"author": "AcropolisBoy and more [Whiliams]",
 			"more": "Whiliams, Megum, TheKate, Serpyy, ItzShuvon, GDStarStorm",
 			"id": 61355408,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=NbcF_4EgMXI",
 			"key": 140
@@ -3518,7 +3518,7 @@ const d = {
 			"author": "GabeLucario and 23tartpop [GabeLucario]",
 			"more": "none",
 			"id": 64142990,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/EAVkdpxAG28",
 			"key": 143
@@ -3537,7 +3537,7 @@ const d = {
 			"author": "rCyns",
 			"more": "none",
 			"id": 64142990,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/S5vbewOLYJw",
 			"key": 144
@@ -3725,7 +3725,7 @@ const d = {
 			"author": "oSpace and more [oSpace]",
 			"more": "Segone, Megum, Deleitor11, xBlizz4rdGirl, Serppy, AcropolisBoy, SkullBytes",
 			"id": 53858796,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 56,
 			"verificationVid": "https://youtu.be/RhtQJDRShS8",
 			"key": 152
@@ -3750,7 +3750,7 @@ const d = {
 			"author": "DeadshotHD and xBlizz4rdGirl [DeadshotHD]",
 			"more": "none",
 			"id": 62799594,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 54,
 			"verificationVid": "https://youtu.be/nLLKtHit4nQ",
 			"key": 153
@@ -3876,7 +3876,7 @@ const d = {
 			"author": "rCyns and more [rCyns]",
 			"more": "ItzShuvon, LLunaa",
 			"id": 64175157,
-			"pass": "Free copy",
+			"pass": "Free Copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://youtu.be/pZ1IJMsv55s",
 			"key": 159
