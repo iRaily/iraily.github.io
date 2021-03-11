@@ -2959,13 +2959,13 @@ const d = {
 					"hz": "288hz"
 				},
 			],
-			"name": "Shitty Pyromaniac",
-			"author": "v1nnyy",
+			"name": "Shitty Gunslinga Corridor",
+			"author": "huskiegaming",
 			"more": "none",
-			"id": 63190129,
+			"id": 65230933,
 			"pass": "Free Copy",
-			"percentToQualify": 56,
-			"verificationVid": "https://youtu.be/ZcfRjV3Y6eI",
+			"percentToQualify": 66,
+			"verificationVid": "https://youtu.be/mwP8cANGuvQ",
 			"key": 122
 		},
 		/*=================================================================================*/
