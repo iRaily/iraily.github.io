@@ -2958,6 +2958,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/PirWRPpeGxw",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Gunslinga Corridor",
 			"author": "huskiegaming",
