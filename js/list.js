@@ -2953,10 +2953,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "iRaily",
-					"link": "https://youtu.be/spwLT19nZQ4?t=109",
+					"user": "chsp1230",
+					"link": "https://youtu.be/nmJeGuVsZPM",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Gunslinga Corridor",
