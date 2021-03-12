@@ -544,10 +544,10 @@ const d = {
                         				{
                 "vids": [
 				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
-					"percent": 100,
-					"hz": "144hz"
+					"user": "None",
+					"link": "https://youtu.be/Woki6IVnbxE",
+					"percent": 0,
+					"hz": "None"
 				},
              ],
                        "name": "Shitty Killbot",
