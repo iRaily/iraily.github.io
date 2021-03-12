@@ -1165,7 +1165,7 @@ const d = {
 					"user": "Fhy1ron",
 					"link": "https://www.youtube.com/watch?v=oXiRhT35zFU",
 					"percent": 100,
-					"hz": "75hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tartarus",
