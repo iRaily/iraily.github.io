@@ -582,10 +582,10 @@ const d = {
     {
 			"vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "iRaily",
+          "link": "https://youtu.be/xDmYsISiEDU",
+          "percent": 100,
+          "hz": "288hz"
         },
 			],
 			"name": "Shitty Silent Circles",
@@ -2221,6 +2221,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=RBtuAeTNXMY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/xDmYsISiEDU?t=158",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Ancestral Calamity",
