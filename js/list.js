@@ -2190,6 +2190,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Amplified",
+					"link": "https://youtu.be/VqRNvwEWdmc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Yoasobi",
 			"author": "iIiLaseriIi",
