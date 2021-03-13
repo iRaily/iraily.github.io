@@ -2215,6 +2215,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/0GW5TkINfqQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -2529,6 +2535,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/iFXkPzXBvxM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams [Bartoldo]",
@@ -2551,6 +2563,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/tAiyDE-EZbk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/Is9rUZN8r6g",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2918,6 +2936,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/mRRX8K555u0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -3255,6 +3279,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/MVQdibIFZj8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -3534,6 +3564,12 @@ const d = {
                                        "link": "https://www.youtube.com/watch?v=9PrgMGWH5AQ&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=100",
                                        "percent": 100,
                                        "hz": "Mobile"
+                                },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/2KcUFYB56l8",
+                                       "percent": 100,
+                                       "hz": "144hz"
                                 },
 			],
 			"name": "Shitty Dolos",
