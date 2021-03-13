@@ -4081,6 +4081,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "240hz"
                                 },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/9UQiMtNv700",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
       ],
 			"name": "Shitty Kenos",
 			"author": "Reshivolent1",
@@ -4332,6 +4338,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "60hz"
                                 },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/eGZNouxNdlg",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
       ],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -4445,6 +4457,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "240hz"
                                 },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/693WgyNvc8s",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
       ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum",
@@ -4469,6 +4487,12 @@ const d = {
                                        "link": "https://www.youtube.com/watch?v=gEnsiTwZKdA&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=66",
                                        "percent": 100,
                                        "hz": "240hz"
+                                },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/pgEr5NEr-V8",
+                                       "percent": 100,
+                                       "hz": "144hz"
                                 },
       ],
 			"name": "Shitty xo",
@@ -4557,6 +4581,12 @@ const d = {
                                        "link": "https://www.youtube.com/watch?v=HmxVeP9DriM&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=16",
                                        "percent": 100,
                                        "hz": "240hz"
+                                },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/dq1LHBnsEYo",
+                                       "percent": 100,
+                                       "hz": "144hz"
                                 },
       ],
 			"name": "Shitty Mujigae",
@@ -4677,6 +4707,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "240hz"
                                 },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/Yp6WcnjENro",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -4790,6 +4826,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "240hz"
                                 },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/4TZiUHMYJS0",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
       ],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -4814,6 +4856,12 @@ const d = {
                                        "link": "https://www.youtube.com/watch?v=-vn24CnBqoA&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=61",
                                        "percent": 100,
                                        "hz": "240hz"
+                                },
+				{
+                                       "user": "NKSWEETDREAM",
+                                       "link": "https://youtu.be/RbE3OHMlpbo",
+                                       "percent": 100,
+                                       "hz": "144hz"
                                 },
       ],
 			"name": "Shitty VendetTa",
