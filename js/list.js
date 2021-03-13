@@ -2050,7 +2050,7 @@ const d = {
 					"user": "changmun",
 					"link": "https://youtu.be/S7TLJdJTa2c",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				},
         ],
 			"name": "Shitty Sky Tech",
