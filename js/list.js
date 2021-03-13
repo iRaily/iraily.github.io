@@ -3099,6 +3099,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SkyMoon",
+					"link": "https://youtu.be/e3mjQZKD43U",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
