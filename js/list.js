@@ -2035,10 +2035,22 @@ const d = {
          {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "chsp1230",
+					"link": "https://youtu.be/vMur3vWaI1U",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nancho",
+					"link": "https://youtu.be/5i9JgxTcxNk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "changmun",
+					"link": "https://youtu.be/S7TLJdJTa2c",
+					"percent": 100,
+					"hz": "144hz"
 				},
         ],
 			"name": "Shitty Sky Tech",
