@@ -1642,10 +1642,10 @@ const d = {
         {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/0hPO8-f9MKU",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Acu",
