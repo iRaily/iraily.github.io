@@ -2179,10 +2179,10 @@ const d = {
 				                {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/F2cvBBnRQNo",
+					"percent": 100,
+					"hz": "144hz"
 				},
       ],
 			"name": "Shitty Sakupen Hell",
