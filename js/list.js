@@ -3073,6 +3073,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/VgQd9-j8g8s",
+					"percent": 100,
+					"hz": "144hz"
+				},
       ],
                         "name": "Shitty ICE Carbon Diablo X",
                         "author": "IntriZ",
