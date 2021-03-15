@@ -1756,10 +1756,22 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=QKJT1LZLHIM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/exlOGVmQRlo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user":ShNKSWEETDREAM",
+					"link": "https://youtu.be/60mANmQSPpI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Fexty",
