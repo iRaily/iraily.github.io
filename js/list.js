@@ -53,12 +53,12 @@ const d = {
 		/*=================================================================================*/
 		{
 		"vids": [
-				{
-					"user": "ddddr",
-					"link": "https://youtu.be/Q5MuAeh88Fk",
-					"percent": 100,
-					"hz": "144hz"	
-				},
+        {
+          "user": "None",
+          "link": "https://youtu.be/EjW_ai3H0xk",
+          "percent": 0,
+          "hz": "None"
+        },
 			],
                        "name": "Shitty Kowareta",
                        "author": "ItsFrenchFry and HideriGh [ItsFrenchFry]",
