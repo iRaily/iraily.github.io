@@ -236,6 +236,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+        {
+					"user": "iRaily",
+					"link": "https://youtu.be/MQIY6g6jfUY",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "MythicalTG",
