@@ -3708,6 +3708,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
                                 },
+				{
+                                        "user": "NKSWEETDREAM",
+                                        "link": "https://youtu.be/qkBNqVgFjJo",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
 			],
 			"name": "Shitty A Bizzare Phantasm",
 			"author": "FlashDriver",
