@@ -413,7 +413,7 @@ const d = {
 			"id": 65422171,
 			"pass": "Free Copy",
 			"percentToQualify": 57,
-			"verificationVid": "https://youtu.be/TpUbqvyUKlQ",
+			"verificationVid": "https://youtu.be/jUH6GSD4FBE",
 			"key": 18
 		},
 		/*=================================================================================*/
