@@ -265,6 +265,25 @@ const d = {
 			"verificationVid": "https://www.youtube.com/watch?v=82-q1q132pY",
 			"key": 11
 		},
+		/*=================================================================================*/
+        		{
+			"vids": [
+        {
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=p0NloPcebqY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty Tempered Steel",
+			"author": "Acidius [v1nnyy]",
+			"more": "none",
+			"id": 65561916,
+			"pass": "313731",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=L1DKm7GU7KM",
+			"key": 12
+		},
     		/*=================================================================================*/
       {
 		        "vids": [
@@ -288,7 +307,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=kxywLwXhLCU",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
         		{
@@ -313,7 +332,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/CJx8nglZTdk",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 			{
@@ -332,7 +351,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
         {
@@ -351,7 +370,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/yDjB_ZpaP3w",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
     		{
@@ -370,8 +389,27 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 61,
                        "verificationVid": "https://www.youtube.com/watch?v=kdM0wYf7r74",
-                       "key": 16
+                       "key": 17
                 },
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "None",
+					"link": "https://youtu.be/EjW_ai3H0xk",
+					"percent": 0,
+					"hz": "None"
+				},
+			],
+			"name": "Shitty Ithacropolis",
+			"author": "rCyns",
+			"more": "none",
+			"id": 65422171,
+			"pass": "Free Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/TpUbqvyUKlQ",
+			"key": 18
+		},
 		/*=================================================================================*/
                         				{
                 "vids": [
@@ -389,7 +427,7 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 53,
                        "verificationVid": "https://www.youtube.com/watch?v=KJuIwTTe_xg",
-                       "key": 17
+                       "key": 19
                 },
 		/*=================================================================================*/
 		{
@@ -432,26 +470,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/amrmrLjyy9Q",
-			"key": 18
-		},
-		/*=================================================================================*/
-        		{
-			"vids": [
-        {
-					"user": "Fhy1ron",
-					"link": "https://www.youtube.com/watch?v=p0NloPcebqY",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty Tempered Steel",
-			"author": "Acidius [v1nnyy]",
-			"more": "none",
-			"id": 65561916,
-			"pass": "313731",
-			"percentToQualify": 60,
-			"verificationVid": "https://www.youtube.com/watch?v=L1DKm7GU7KM",
-			"key": 19
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -488,7 +507,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=SwZk3N-xCko",
-			"key": 20
+			"key": 21
 		},
 		/*=================================================================================*/
        		{
@@ -507,7 +526,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=N5rnhFm4hQQ",
-			"key": 21
+			"key": 22
 		},
 		/*=================================================================================*/
 				{
@@ -538,7 +557,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/RPDmLNJBpMc",
-			"key": 22
+			"key": 23
 		},
 		/*=================================================================================*/
                         				{
@@ -557,27 +576,8 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 67,
                        "verificationVid": "https://youtu.be/E6idICOenpI",
-                       "key": 23
+                       "key": 24
                 },
-		/*=================================================================================*/
-    {
-			"vids": [
-        {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
-        },
-			],
-			"name": "Shitty Gang Plank Hell",
-			"author": "AcropolisBoy and more [AcropolisBoy]",
-			"more": "ZekronGD, Aassbll, DeadshotHD, HDLink13, TheKate, Jackieriz, Williams8080",
-			"id": 63487281,
-			"pass": "Free Copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://youtu.be/FGARY9mestA",
-			"key": 24
-		},
 		/*=================================================================================*/
     {
 			"vids": [
@@ -654,6 +654,25 @@ const d = {
 			"key": 27
 		},
 		/*=================================================================================*/
+    {
+			"vids": [
+        {
+          "user": "None",
+          "link": "https://youtu.be/EjW_ai3H0xk",
+          "percent": 0,
+          "hz": "None"
+        },
+			],
+			"name": "Shitty Gang Plank Hell",
+			"author": "AcropolisBoy and more [AcropolisBoy]",
+			"more": "ZekronGD, Aassbll, DeadshotHD, HDLink13, TheKate, Jackieriz, Williams8080",
+			"id": 63487281,
+			"pass": "Free Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/FGARY9mestA",
+			"key": 28
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -670,7 +689,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 56,
 			"verificationVid": "https://youtu.be/ahQwHe6GL0Q",
-			"key": 28
+			"key": 29
 		},
 		/*=================================================================================*/
 		{
@@ -689,25 +708,6 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/QcnNvzGOP8g",
-			"key": 29
-		},
-		/*=================================================================================*/
-    						{
-			"vids": [
-				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
-				},
-			],
-			"name": "Shitty Phosphorescent",
-			"author": "Acidius2 [Acidius]",
-			"more": "none",
-			"id": 64767413,
-			"pass": "313313",
-			"percentToQualify": 61,
-			"verificationVid": "https://youtu.be/sBaBOLW1LNM",
 			"key": 30
 		},
 		/*=================================================================================*/
@@ -769,31 +769,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "NanCho",
-					"link": "https://youtu.be/MTiJ79xl2Jg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "BnBn[GD]",
-					"link": "https://youtu.be/xdiwcYD6mDw",
-					"percent": 64,
-					"hz": "Mobile"
-				},
-        			],
-			"name": "Shitty Tempest Tornado",
-			"author": "IntriZ and Glitchstery [IntriZ]",
-			"more": "none",
-			"id": 65196066,
-			"pass": "Free Copy",
-			"percentToQualify": 55,
-			"verificationVid": "https://youtu.be/xMBjqePm-wM",
-			"key": 33
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
         {
           "user": "None",
           "link": "https://youtu.be/EjW_ai3H0xk",
@@ -808,7 +783,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/NldnOC-FtQg",
-			"key": 34
+			"key": 33
    },
     /*=================================================================================*/
 		{
@@ -827,7 +802,7 @@ const d = {
 			"pass": "050319",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/ywbmmsfvP3g",
-			"key": 35
+			"key": 34
 		},
     /*=================================================================================*/
 		{
@@ -846,7 +821,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/YGIGTMdhGJQ",
-			"key": 36
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -889,26 +864,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 52,
 			"verificationVid": "https://youtu.be/Zs3wbxEiWy0",
-			"key": 37
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
-				},
-			],
-			"name": "Shitty Ithacropolis",
-			"author": "rCyns",
-			"more": "none",
-			"id": 65422171,
-			"pass": "Free Copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://youtu.be/TpUbqvyUKlQ",
-			"key": 38
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
@@ -951,7 +907,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/Wc_Jj3oWXL0",
-			"key": 39
+			"key": 37
 		},
 		/*=================================================================================*/
        		{
@@ -1006,7 +962,26 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/xGBfvrRvIbU",
-			"key": 40
+			"key": 38
+		},
+		/*=================================================================================*/
+    						{
+			"vids": [
+				{
+					"user": "None",
+					"link": "https://youtu.be/EjW_ai3H0xk",
+					"percent": 0,
+					"hz": "None"
+				},
+			],
+			"name": "Shitty Phosphorescent",
+			"author": "Acidius2 [Acidius]",
+			"more": "none",
+			"id": 64767413,
+			"pass": "313313",
+			"percentToQualify": 61,
+			"verificationVid": "https://youtu.be/sBaBOLW1LNM",
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -1031,7 +1006,7 @@ const d = {
 			"pass": "152535",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/uOgq5thsmV4",
-			"key": 41
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -1050,7 +1025,7 @@ const d = {
 			"pass": "466418",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/eOHL4N_GrWk",
-			"key": 42
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -1069,7 +1044,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 51,
 			"verificationVid": "https://youtu.be/DlBQNVR4jsw",
-			"key": 43
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -1088,6 +1063,31 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 69,
 			"verificationVid": "https://youtu.be/JpN4oeeSUxo",
+			"key": 43
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "NanCho",
+					"link": "https://youtu.be/MTiJ79xl2Jg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "BnBn[GD]",
+					"link": "https://youtu.be/xdiwcYD6mDw",
+					"percent": 64,
+					"hz": "Mobile"
+				},
+        			],
+			"name": "Shitty Tempest Tornado",
+			"author": "IntriZ and Glitchstery [IntriZ]",
+			"more": "none",
+			"id": 65196066,
+			"pass": "Free Copy",
+			"percentToQualify": 55,
+			"verificationVid": "https://youtu.be/xMBjqePm-wM",
 			"key": 44
 		},
     		/*=================================================================================*/
@@ -1768,7 +1768,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user":ShNKSWEETDREAM",
+					"user": "",
 					"link": "https://youtu.be/60mANmQSPpI",
 					"percent": 100,
 					"hz": "144hz"
@@ -2112,6 +2112,25 @@ const d = {
 			"verificationVid": "https://youtu.be/FnsFaxRjzX8",
 			"key": 82
 		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/cIOPvUyY2n0",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Shitty DARKENED",
+			"author": "IntriZ",
+			"more": "none",
+			"id": 66318588,
+			"pass": "Free Copy",
+			"percentToQualify": 59,
+			"verificationVid": "https://youtu.be/qMJVG9yDUOk",
+			"key": 83
+		},
     /*=================================================================================*/
     	                {
 			"vids": [
@@ -2129,7 +2148,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/zkd04MvoKYk",
-			"key": 83
+			"key": 84
 		},
     /*=================================================================================*/
     {
@@ -2148,7 +2167,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/-DJJS6oXLs0",
-			"key": 84
+			"key": 85
 		},
     /*=================================================================================*/
     {
@@ -2185,7 +2204,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=c8lLnBVJg1g",
-			"key": 85
+			"key": 86
 		},
 		/*=================================================================================*/
 				                {
@@ -2204,7 +2223,7 @@ const d = {
 			"pass": "666665",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/Y30z7_UCbJ4",
-			"key": 86
+			"key": 87
 		},
 		/*=================================================================================*/
 		{
@@ -2223,7 +2242,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/-1LNb1Z4Ra0",
-			"key": 87
+			"key": 88
 		},
 		/*=================================================================================*/
 		{
@@ -2254,7 +2273,7 @@ const d = {
 			"pass": "Copy 불가",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/eL6-Icpr5Xc",
-			"key": 88
+			"key": 89
 		},
 		/*=================================================================================*/
 		{
@@ -2291,7 +2310,7 @@ const d = {
 			"pass": "276492",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=gkvLFHDEZk4",
-			"key": 89
+			"key": 90
 		},
 		/*=================================================================================*/
 				{
@@ -2316,27 +2335,8 @@ const d = {
 			"pass": "300419",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/RBtuAeTNXMY",
-			"key": 90
-		},
-		/*=================================================================================*/
-				{
-			"vids": [
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/cIOPvUyY2n0",
-					"percent": 100,
-					"hz": "288hz"
-				},
-			],
-			"name": "Shitty DARKENED",
-			"author": "IntriZ",
-			"more": "none",
-			"id": 66318588,
-			"pass": "Free Copy",
-			"percentToQualify": 59,
-			"verificationVid": "https://youtu.be/qMJVG9yDUOk",
 			"key": 91
-		},
+				},
 		/*=================================================================================*/
 		{
 			"vids": [
