@@ -54,10 +54,10 @@ const d = {
 		{
 		"vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "LinedriveGD",
+          "link": "https://youtu.be/xeoXbS6nwps",
+          "percent": 100,
+          "hz": "240hz"
         },
 			],
                        "name": "Shitty Kowareta",
@@ -305,6 +305,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+        {
+					"user": "ddddr",
+					"link": "https://youtu.be/SddbwZN0PvY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "v1nnyy and UnlawfulYT [v1nnyy]",
@@ -423,6 +429,12 @@ const d = {
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
 					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "chsp1230",
+					"link": "https://youtu.be/WMJ25hA55s4",
+					"percent": 63,
 					"hz": "144hz"
 				},
              ],
@@ -588,10 +600,10 @@ const d = {
                         				{
                 "vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/Woki6IVnbxE",
-					"percent": 0,
-					"hz": "None"
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=JNYcwObpvBU&ab_channel=sandstormy",
+					"percent": 100,
+					"hz": "240hz"
 				},
              ],
                        "name": "Shitty Killbot",
@@ -905,6 +917,12 @@ const d = {
 					"link": "https://youtu.be/PQKFjGNO6TE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Nancho",
+					"link": "https://youtu.be/s_qsmF1pYHs",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "NKSWEETDREAM",
@@ -1712,7 +1730,7 @@ const d = {
 				},
       ],
 			"name": "Shitty Mujigae",
-			"author": "iSulkyOfficial",
+			"author": "iSulkyOfficial [GamingmanYT]",
 			"more": "none",
 			"id": 67578980,
 			"pass": "Free Copy",
