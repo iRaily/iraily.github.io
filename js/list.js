@@ -852,13 +852,13 @@ const d = {
 			"vids": [
         {
           "user": "iRaily",
-          "link": "https://youtu.be/dB7IZlJOh5M",
-          "percent": 67,
+          "link": "https://youtu.be/DFAo2j98yLY",
+          "percent": 100,
           "hz": "288hz"
         },
       ],
 			"name": "Shitty Idols",
-			"author": "Zurteh [DasherMachineRe]",
+			"author": "Zurteh [Slayer]",
 			"more": "none",
 			"id": 67611269,
 			"pass": "Free Copy",
@@ -941,6 +941,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lTirAzhu0WU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "LinedriveGD",
+					"link": "https://youtu.be/9AhKe9goofw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "BnBn[GD]",
@@ -1176,6 +1182,12 @@ const d = {
         {
 					"user": "PinkCotton",
 					"link": "https://youtu.be/qVGVNxMAe7k",
+					"percent": 100,
+					"hz": "240hz"
+				},
+        {
+					"user": "LinedriveGD",
+					"link": "https://youtu.be/rRP-bSo0b4E",
 					"percent": 100,
 					"hz": "240hz"
 				},
