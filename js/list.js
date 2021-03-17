@@ -179,6 +179,12 @@ const d = {
           "percent": 100,
           "hz": "144hz"
         },
+        {
+          "user": "BlueTomcat",
+          "link": "https://youtu.be/BSPtwE1knCo",
+          "percent": 100,
+          "hz": "144hz"
+        },
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy and more [v1nnyy]",
