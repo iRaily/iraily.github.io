@@ -863,7 +863,7 @@ const d = {
 			"id": 67611269,
 			"pass": "Free Copy",
 			"percentToQualify": 60,
-			"verificationVid": "https://youtu.be/YGIGTMdhGJQ",
+			"verificationVid": "https://youtu.be/DFAo2j98yLY",
 			"key": 36
 		},
 		/*=================================================================================*/
