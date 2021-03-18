@@ -407,7 +407,7 @@ const d = {
 				},
 			],
 			"name": "Shitty xo",
-			"author": "iRaily and More [iRaily]",
+			"author": "iRaily and more [iRaily]",
 			"more": "HargChucu, GDClutter, chsp1230",
 			"id": 67158594,
 			"pass": "003240",
