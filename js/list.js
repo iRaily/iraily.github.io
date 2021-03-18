@@ -2202,10 +2202,10 @@ const d = {
     	                {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/aqcoZABXIF8",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Phantasmagoria",
