@@ -2221,10 +2221,10 @@ const d = {
     {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
+					"user": "iRaily",
+					"link": "https://youtu.be/mXGpWbiln5s",
 					"percent": 0,
-					"hz": "None"
+					"hz": "288hz"
 				},
       ],
 			"name": "Shitty The Hell Dignity",
