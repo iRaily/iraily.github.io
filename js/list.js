@@ -9,6 +9,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"	
 				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=IzLIwkPAhjc&ab_channel=sandstormy",
+					"percent": 100,
+					"hz": "240hz"	
+				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
@@ -69,44 +75,6 @@ const d = {
                        "verificationVid": "https://youtu.be/MxQG7oFD29c",
                        "key": 2
                 },
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-        {
-					"user": "iRaily",
-					"link": "https://youtu.be/LjB3dSVccLM",
-					"percent": 100,
-				  "hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://youtu.be/hIA9o-6-sgs",
-					"percent": 100,
-					"hz": "144hz"	
-				},
-				{
-					"user": "GDClutter",
-					"link": "https://www.youtube.com/watch?v=FJHeQMOQPnc",
-					"percent": 61,
-					"hz": "60hz"	
-				},
-				{
-					"user": "Gloomy boy",
-					"link": "https://youtu.be/_nI6uhKLw9k",
-					"percent": 61,
-					"hz": "Mobile"	
-				},
-			],
-			"name": "Shitty Cold Sweat",
-                       "author": "MP3141",
-                       "more": "none",
-                       "id": 64360108,
-                       "pass": "Free Copy",
-                       "percentToQualify": 60,
-                       "verificationVid": "https://www.youtube.com/watch?v=OSlBFtnbiXg",
-                       "key": 3
-		},
 		/*=================================================================================*/
 		{
                 "vids": [
@@ -413,10 +381,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/NKOieGbOeog",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -425,6 +393,25 @@ const d = {
 			"id": 65422171,
 			"pass": "Free Copy",
 			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/jUH6GSD4FBE",
+			"key": 18
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Fhy1ron",
+					"link": "https://youtu.be/Smsuh2i5nIM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty xo",
+			"author": "iRaily and More [iRaily]",
+			"more": "HargChucu, GDClutter, chsp1230",
+			"id": 67158594,
+			"pass": "003240",
+			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/jUH6GSD4FBE",
 			"key": 18
 		},
