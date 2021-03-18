@@ -412,7 +412,7 @@ const d = {
 			"id": 67158594,
 			"pass": "003240",
 			"percentToQualify": 62,
-			"verificationVid": "https://youtu.be/jUH6GSD4FBE",
+			"verificationVid": "https://youtu.be/t4_5hTjExCk",
 			"key": 18
 		},
 		/*=================================================================================*/
