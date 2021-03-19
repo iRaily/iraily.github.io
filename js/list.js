@@ -155,7 +155,7 @@ const d = {
         },
                          ],
                        "name": "Shitty Hateful Reflection",
-                       "author": "v1nnyy and more [v1nnyy]",
+                       "author": "HERM3S and more [HERM3S]",
                        "more": "Bluuper, Ppraerius",
                        "id": 63161977,
                        "pass": "Free Copy",
@@ -237,7 +237,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Bausha Vortex",
-			"author": "PDSydney and v1nnyy [PDSydney]",
+			"author": "PDSydney and HERM3S [PDSydney]",
 			"more": "none",
 			"id": 64210443,
 			"pass": "Free Copy",
@@ -256,7 +256,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Tempered Steel",
-			"author": "Acidius [v1nnyy]",
+			"author": "Acidius [HERM3S]",
 			"more": "none",
 			"id": 65561916,
 			"pass": "313731",
@@ -287,7 +287,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Arctic Lights",
-			"author": "v1nnyy and UnlawfulYT [v1nnyy]",
+			"author": "HERM3S and UnlawfulYT [HERM3S]",
 			"more": "none",
 			"id": 65739135,
 			"pass": "Free Copy",
@@ -343,10 +343,10 @@ const d = {
         {
 			"vids": [
         {
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "MintCho",
+					"link": "https://youtu.be/dkqAcck9AEo",
+					"percent": 100,
+					"hz": "100hz"
 				},
     ],
 			"name": "Shitty Artificial Ideology",
@@ -444,10 +444,10 @@ const d = {
                         				{
                 "vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "ESCCA",
+					"link": "https://youtu.be/w-eUtGRN5Mg",
+					"percent": 100,
+					"hz": "165hz"
 				},
              ],
                        "name": "Shitty Sunset Sandstorm",
@@ -744,10 +744,10 @@ const d = {
     {
 			"vids": [
         {
-				  "user": "None",
-				  "link": "https://youtu.be/EjW_ai3H0xk",
-				  "percent": 0,
-				  "hz": "None"
+				  "user": "NKSWEETDREAM",
+				  "link": "https://youtu.be/h2fWiMa_HQ4",
+				  "percent": 100,
+				  "hz": "144hz"
 			  },
 			],
 			"name": "Shitty Plasma Pulse III",
@@ -1054,10 +1054,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=NhG2xclppUw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Molten Mercury",
@@ -1099,7 +1099,7 @@ const d = {
 				},
       ],
 			"name": "Shitty Auroral Darkness",
-			"author": "Brinnn [v1nnyy]",
+			"author": "Brinnn [HERM3S]",
 			"more": "none",
 			"id": 67110227,
 			"pass": "Free Copy",
@@ -1640,10 +1640,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=jeH5YFmpFno",
+					"percent": 100,
+					"hz": "240hz"
 				},
       ],
 			"name": "Shitty Digital Descent",
@@ -1709,10 +1709,10 @@ const d = {
         {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "ESCCA",
+					"link": "https://www.youtube.com/watch?v=sEX2wBkNMiM",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Hyper Paracosm",
@@ -1804,10 +1804,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/N2PlJ50Rwzs",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Niflheim",
@@ -1854,10 +1854,10 @@ const d = {
 				{
 		        "vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/I7qSW27rfac",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty The Hell Zone",
@@ -1979,7 +1979,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Curse Calling",
-			"author": "v1nnyy",
+			"author": "HERM3S",
 			"more": "none",
 			"id": 63952234,
 			"pass": "Copy 불가",
@@ -2169,6 +2169,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/I7qSW27rfac?t=170",
+					"percent": 100,
+					"hz": "288hz"
+				},
         ],
 			"name": "Shitty Sky Tech",
 			"author": "DingXD and Brinnn [DingXD]",
@@ -2209,7 +2215,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Phantasmagoria",
-			"author": "v1nnyy",
+			"author": "HERM3S",
 			"more": "none",
 			"id": 63685007,
 			"pass": "Free Copy",
@@ -2917,7 +2923,7 @@ const d = {
 				},
         ],
 			"name": "Shitty Glacial Reflections",
-			"author": "Lupe1204 [v1nnyy]",
+			"author": "Lupe1204 [HERM3S]",
 			"more": "none",
 			"id": 64339626,
 			"pass": "Copy 불가",
@@ -3254,7 +3260,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Pyromaniac",
-			"author": "v1nnyy",
+			"author": "HERM3S",
 			"more": "none",
 			"id": 63190129,
 			"pass": "Free Copy",
