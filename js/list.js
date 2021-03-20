@@ -668,10 +668,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/tqWtNrufAlc",
+					"percent": 100,
+					"hz": "144hz"
 				},
       ],
 			"name": "Shitty Catalyze",
@@ -1534,10 +1534,10 @@ const d = {
     				{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Anip",
+					"link": "https://www.youtube.com/watch?v=W7q90XDHaDk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Black Thunder",
@@ -1728,10 +1728,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/T7MkFi_x-FY",
+					"percent": 100,
+					"hz": "144hz"
 				},
       ],
 			"name": "Shitty Mujigae",
