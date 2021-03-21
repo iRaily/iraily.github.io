@@ -104,10 +104,10 @@ const d = {
 		{
                 "vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "sandstormy",
+          "link": "https://www.youtube.com/watch?v=KG6_0s_Dv-A&ab_channel=sandstormy",
+          "percent": 100,
+          "hz": "240hz"
         },
                          ],
                        "name": "Shitty Fragmented",
@@ -230,10 +230,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/Wl3YSmiQmwY",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Bausha Vortex",
@@ -423,6 +423,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=tm6Be9K7718",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "chsp1230",
@@ -1073,10 +1079,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=eK7QVwJUlX8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Betrayal of Fate",
@@ -1248,10 +1254,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=D--qc36ziP4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Athanatos",
@@ -1840,6 +1846,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/Af1mfKaQ3r4",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Fexty",
 			"author": "YeezoWo",
@@ -1877,6 +1889,12 @@ const d = {
 					"link": "https://youtu.be/1vdZgxuw4Cs",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/dTh0aX02F0w?t=168",
+					"percent": 100,
+					"hz": "288hz"
 				},
       ],
 			"name": "Shitty Cataclysm",
@@ -1958,6 +1976,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/dTh0aX02F0w",
+					"percent": 100,
+					"hz": "288hz"
+				},
       ],
 			"name": "Shitty UltraSans",
 			"author": "GDStarStorm and more [LJosh]",
@@ -1972,10 +1996,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://youtu.be/5w5TH7DsmDc",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Curse Calling",
@@ -2016,10 +2040,10 @@ const d = {
     {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "iRaily",
+					"link": "https://www.youtube.com/watch?v=z2jlwRXsMzg",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Narcissist",
@@ -2039,6 +2063,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=kNixQYzEq9Y",
 					"percent": 100,
 					"hz": "100hz"
+				},
+				{
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=ClcytSL3RWA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/z2jlwRXsMzg?t=268",
+					"percent": 100,
+					"hz": "288hz"
 				},
       ],
 			"name": "Shitty Breakout Redux",
@@ -2362,6 +2398,12 @@ const d = {
 					"link": "https://youtu.be/VqRNvwEWdmc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=QrzbFsKS7_4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Yoasobi",
