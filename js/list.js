@@ -11,7 +11,7 @@ const d = {
         },
       ],
 			"name": "Shitty Visible Ray",
-			"author": "HargChucu",
+			"author": "HargChucu [Fhy1ron]",
 			"more": "none",
 			"id": 67344125,
 			"pass": "557774",
