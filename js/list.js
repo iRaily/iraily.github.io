@@ -1340,12 +1340,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Fhy1ron",
-					"link": "https://www.youtube.com/watch?v=D--qc36ziP4",
-					"percent": 100,
-					"hz": "240hz"
-				},
+        {
+          "user": "None",
+          "link": "https://youtu.be/EjW_ai3H0xk",
+          "percent": 0,
+          "hz": "None"
+        },
 			],
 			"name": "Shitty Crystallic Haze",
 			"author": "JustGDPanda [Nezzicom]",
@@ -1596,12 +1596,12 @@ const d = {
 		/*=================================================================================*/
     				{
 			"vids": [
-				{
-					"user": "Anip",
-					"link": "https://www.youtube.com/watch?v=W7q90XDHaDk",
-					"percent": 100,
-					"hz": "240hz"
-				},
+        {
+          "user": "None",
+          "link": "https://youtu.be/EjW_ai3H0xk",
+          "percent": 0,
+          "hz": "None"
+        },
 			],
 			"name": "Shitty Silentium Gradas",
 			"author": "hxrun [Zombieland]",
