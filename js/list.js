@@ -4,10 +4,10 @@ const d = {
 		{
 			"vids": [
         {
-          "user": "None",
+          "user": "Pinkcotton",
           "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "percent": 100,
+          "hz": "240hz"
         },
       ],
 			"name": "Shitty Visible Ray",
@@ -108,6 +108,12 @@ const d = {
 				       "link": "https://youtu.be/fkzSTFLyIHs",
 				       "percent": 100,
 				       "hz": "288hz"
+			        },
+			       {
+				       "user": "Serenade",
+				       "link": "https://youtu.be/8EU_fOITTTo",
+				       "percent": 100,
+				       "hz": "165hz"
 			        },
 				],
                        "name": "Shitty Sonic Wave Infinity",
@@ -519,7 +525,7 @@ const d = {
 			"vids": [
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/Woki6IVnbxE",
+					"link": "https://youtu.be/eICyMZkRif4?t=181",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -825,10 +831,10 @@ const d = {
 		{
 			"vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "LinedriveGD",
+          "link": "https://youtu.be/yIoy3Le239g",
+          "percent": 100,
+          "hz": "240hz"
         },
    ],
 			"name": "Shitty Shibireta",
@@ -1035,10 +1041,10 @@ const d = {
     						{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "1qawsz",
+					"link": "https://youtu.be/qmlHyiQMcGk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Phosphorescent",
@@ -1161,10 +1167,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "Fhy1ron",
+					"link": "https://youtu.be/1GTjUnkD6_w",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty ShadoW",
@@ -1435,10 +1441,10 @@ const d = {
 				{
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "LinedriveGD",
+					"link": "https://youtu.be/s3HZWKVibxw",
+					"percent": 100,
+					"hz": "240hz"
 				},
       ],
 			"name": "Shitty Deep Swim",
@@ -1597,11 +1603,17 @@ const d = {
     				{
 			"vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "Fhy1ron",
+          "link": "https://youtu.be/xgzjjpoi_vg",
+          "percent": 100,
+          "hz": "240hz"
         },
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/zKYNb__7a1Y",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Silentium Gradas",
 			"author": "hxrun [Zombieland]",
@@ -1708,6 +1720,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/eICyMZkRif4",
+					"percent": 100,
+					"hz": "288hz"
+				},
       ],
 			"name": "Shitty Digital Descent",
 			"author": "GDGalaxyGaming",
@@ -1777,6 +1795,18 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/q0NQPluxknY",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/zR19AUdD6ng?t=244",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Hyper Paracosm",
 			"author": "Lupe1204 [Kobra456]",
@@ -1796,6 +1826,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/zR19AUdD6ng",
+					"percent": 100,
+					"hz": "288hz"
+				},
       ],
 			"name": "Shitty Mujigae",
 			"author": "iSulkyOfficial [GamingmanYT]",
@@ -1810,10 +1846,16 @@ const d = {
         {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
-					"percent": 0,
-					"hz": "None"
+					"user": "chsp1230",
+					"link": "https://youtu.be/-2Iq0C5Fo8I",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/Af1mfKaQ3r4",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Alcatraz",
@@ -1834,6 +1876,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/BmCIyoYbbZI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
@@ -1848,10 +1896,22 @@ const d = {
     {
 			"vids": [
 				{
-					"user": "None",
-					"link": "https://youtu.be/EjW_ai3H0xk",
+					"user": "BlueTomcat",
+					"link": "https://youtu.be/pLeE2eFL1bw",
 					"percent": 0,
 					"hz": "None"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/E9V9LTk267w",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "LinedriveGD",
+					"link": "https://youtu.be/-r7S1FRnxUw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Occult Outcry",
@@ -1871,6 +1931,12 @@ const d = {
 					"link": "https://youtu.be/N2PlJ50Rwzs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/_sTiRw7YQNQ",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Niflheim",
