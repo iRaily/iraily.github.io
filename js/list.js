@@ -518,10 +518,10 @@ const d = {
        		{
 			"vids": [
 				{
-					"user": "None",
+					"user": "iRaily",
 					"link": "https://youtu.be/Woki6IVnbxE",
-					"percent": 0,
-					"hz": "None"
+					"percent": 100,
+					"hz": "288hz"
 				},
       ],
 			"name": "Shitty Avalanche",
@@ -712,10 +712,10 @@ const d = {
     {
 			"vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "ddddr",
+          "link": "https://youtu.be/xBQMfYqgIW0",
+          "percent": 100,
+          "hz": "144hz"
         },
 			],
 			"name": "Shitty Gang Plank Hell",
