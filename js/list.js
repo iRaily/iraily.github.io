@@ -1589,6 +1589,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/2K1GdevubdE",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Black Thunder",
 			"author": "GabeLucario",
