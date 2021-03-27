@@ -167,10 +167,10 @@ const d = {
 		{
                 "vids": [
         {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
+          "user": "BlueTomcat",
+          "link": "https://youtu.be/bloLQ5nPJno",
+          "percent": 100,
+          "hz": "144hz"
         },
                          ],
                        "name": "Shitty The Yandere",
