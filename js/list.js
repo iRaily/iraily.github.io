@@ -1038,7 +1038,7 @@ const d = {
 					"user": "RealRear",
 					"link": "https://youtu.be/mIXJgvVr7o4",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "144hz"
 				},
 				{
 					"user": "ddddr",
