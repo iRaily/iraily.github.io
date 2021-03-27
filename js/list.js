@@ -1923,8 +1923,8 @@ const d = {
 				{
 					"user": "BlueTomcat",
 					"link": "https://youtu.be/pLeE2eFL1bw",
-					"percent": 0,
-					"hz": "None"
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "iRaily",
