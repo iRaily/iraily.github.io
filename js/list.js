@@ -1278,6 +1278,25 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+        {
+          "user": "iRaily",
+          "link": "https://youtu.be/Zk1acxIe5Fo",
+          "percent": 100,
+          "hz": "288hz"
+        },
+			],
+			"name": "Shitty Crystallic Haze",
+			"author": "JustGDPanda [Nezzicom]",
+			"more": "none",
+			"id": 67718032,
+			"pass": "085641",
+			"percentToQualify": 62,
+			"verificationVid": "https://youtu.be/mPNWwqwsZks",
+			"key": 51
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "Fhy1ron",
 					"link": "https://www.youtube.com/watch?v=oXiRhT35zFU",
@@ -1292,7 +1311,7 @@ const d = {
 			"pass": "606606",
 			"percentToQualify": 53,
 			"verificationVid": "https://youtu.be/oXiRhT35zFU",
-			"key": 51
+			"key": 52
 		},
 		/*=================================================================================*/
 		{
@@ -1311,7 +1330,7 @@ const d = {
 			"pass": "001204",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/2mifSod_ys0",
-			"key": 52
+			"key": 53
 		},
 		/*=================================================================================*/
         {
@@ -1360,25 +1379,6 @@ const d = {
 			"pass": "343707",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/rFuwwGL6CK8",
-			"key": 53
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-        {
-          "user": "None",
-          "link": "https://youtu.be/EjW_ai3H0xk",
-          "percent": 0,
-          "hz": "None"
-        },
-			],
-			"name": "Shitty Crystallic Haze",
-			"author": "JustGDPanda [Nezzicom]",
-			"more": "none",
-			"id": 67718032,
-			"pass": "085641",
-			"percentToQualify": 62,
-			"verificationVid": "https://youtu.be/mPNWwqwsZks",
 			"key": 54
 		},
 		/*=================================================================================*/
@@ -1465,6 +1465,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/2O0aW-TKCjw",
+					"percent": 100,
+					"hz": "288hz"
+				},
       ],
 			"name": "Shitty Deep Swim",
 			"author": "YeezoWo",
@@ -1545,6 +1551,12 @@ const d = {
                                        "link": "https://youtu.be/zHllekicnoI",
                                        "percent": 100,
                                        "hz": "Mobile"
+                                },
+				{
+                                       "user": "iRaily",
+                                       "link": "https://youtu.be/dyfkSStQaxU",
+                                       "percent": 100,
+                                       "hz": "288hz"
                                 },
 				{
                                        "user": "BnBn[GD]",
