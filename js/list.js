@@ -94,25 +94,6 @@ const d = {
                        "verificationVid": "https://youtu.be/MxQG7oFD29c",
                        "key": 3
                 },
-    		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/Wl3YSmiQmwY",
-					"percent": 100,
-					"hz": "288hz"
-				},
-			],
-			"name": "Shitty Bausha Vortex",
-			"author": "PDSydney and HERM3S [PDSydney]",
-			"more": "none",
-			"id": 64210443,
-			"pass": "Free Copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://www.youtube.com/watch?v=82-q1q132pY",
-			"key": 4
-		},
 		/*=================================================================================*/
 		{
                 "vids": [
@@ -142,8 +123,27 @@ const d = {
                        "pass": "Copy 불가",
                        "percentToQualify": 55,
                        "verificationVid": "https://youtu.be/pK0sPv1igzU",
-                       "key": 5
+                       "key": 4
                 },
+    		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/Wl3YSmiQmwY",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Shitty Bausha Vortex",
+			"author": "PDSydney and HERM3S [PDSydney]",
+			"more": "none",
+			"id": 64210443,
+			"pass": "Free Copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://www.youtube.com/watch?v=82-q1q132pY",
+			"key": 5
+		},
                 /*=================================================================================*/
 		{
                 "vids": [
@@ -202,25 +202,6 @@ const d = {
 			"key": 8
 		},
 		/*=================================================================================*/
-    {   
-		"vids": [
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=YVnKwp8_Y-4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-		          ],
-                       "name": "Shitty Crimson Planet",
-                       "author": "MP3141",
-                       "more": "none",
-                       "id": 63348652,
-                       "pass": "Free Copy",
-                       "percentToQualify": 64,
-                       "verificationVid": "https://www.youtube.com/watch?v=5ptxldScVe0",
-                       "key": 9
-                },
-		/*=================================================================================*/
         		{
 			"vids": [
 				{
@@ -243,8 +224,27 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/CJx8nglZTdk",
-			"key": 10
+			"key": 9
 		},
+		/*=================================================================================*/
+    {   
+		"vids": [
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=YVnKwp8_Y-4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+		          ],
+                       "name": "Shitty Crimson Planet",
+                       "author": "MP3141",
+                       "more": "none",
+                       "id": 63348652,
+                       "pass": "Free Copy",
+                       "percentToQualify": 64,
+                       "verificationVid": "https://www.youtube.com/watch?v=5ptxldScVe0",
+                       "key": 10
+                },
                 /*=================================================================================*/
 		{
                 "vids": [
@@ -1079,31 +1079,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "iRaily",
-					"link": "https://youtu.be/QCYSks9fvkQ",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "1qawsz",
-					"link": "https://youtu.be/hgrvXG2Xpgo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Daydream",
-			"author": "NxyT [TheIcyConey]",
-			"more": "none",
-			"id": 65778678,
-			"pass": "152535",
-			"percentToQualify": 64,
-			"verificationVid": "https://youtu.be/uOgq5thsmV4",
-			"key": 43
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "Fhy1ron",
 					"link": "https://www.youtube.com/watch?v=NhG2xclppUw",
 					"percent": 100,
@@ -1117,7 +1092,7 @@ const d = {
 			"pass": "466418",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/eOHL4N_GrWk",
-			"key": 44
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -1136,7 +1111,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 51,
 			"verificationVid": "https://youtu.be/DlBQNVR4jsw",
-			"key": 45
+			"key": 44
 		},
 		/*=================================================================================*/
 		{
@@ -1155,7 +1130,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 69,
 			"verificationVid": "https://youtu.be/JpN4oeeSUxo",
-			"key": 46
+			"key": 45
 		},
 		/*=================================================================================*/
 		{
@@ -1180,7 +1155,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/xMBjqePm-wM",
-			"key": 47
+			"key": 46
 		},
     		/*=================================================================================*/
 		{
@@ -1199,7 +1174,7 @@ const d = {
 			"pass": "Copy 불가",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/_P7VvgkrjHo",
-			"key": 48
+			"key": 47
 		},
 		/*=================================================================================*/
     {
@@ -1236,7 +1211,7 @@ const d = {
 			"pass": "557774",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/9WV8m90w1Us",
-			"key": 49
+			"key": 48
 		},
 		/*=================================================================================*/
 				{
@@ -1273,7 +1248,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/cGY6Y3hwCs0",
-			"key": 50
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -1292,6 +1267,31 @@ const d = {
 			"pass": "085641",
 			"percentToQualify": 62,
 			"verificationVid": "https://youtu.be/mPNWwqwsZks",
+			"key": 50
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/QCYSks9fvkQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/hgrvXG2Xpgo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Daydream",
+			"author": "NxyT [TheIcyConey]",
+			"more": "none",
+			"id": 65778678,
+			"pass": "152535",
+			"percentToQualify": 64,
+			"verificationVid": "https://youtu.be/uOgq5thsmV4",
 			"key": 51
 		},
 		/*=================================================================================*/
@@ -2786,31 +2786,6 @@ const d = {
     			{
 		        "vids": [
 				{
-					"user": "iRaily",
-					"link": "https://youtu.be/H7qwOPDiwhE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhy1ron",
-					"link": "https://www.youtube.com/watch?v=GLzCCCIjGbs&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=120",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty The Secret Box",
-			"author": "jOnel",
-			"more": "none",
-			"id": 64227671,
-			"pass": "Free Copy",
-			"percentToQualify": 56,
-			"verificationVid": "https://youtu.be/Dih_QOKhhYQ",
-			"key": 106
-		},
-		/*=================================================================================*/
-    			{
-		        "vids": [
-				{
 					"user": "sandstormy",
 					"link": "https://www.youtube.com/watch?v=JDN8z5TZEK4",
 					"percent": 100,
@@ -2836,7 +2811,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/05y7ifmZSyo",
-			"key": 107
+			"key": 106
 		},
 		/*=================================================================================*/
 		{
@@ -2861,7 +2836,7 @@ const d = {
 			"pass": "001204",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/F9r_SgSWHSU",
-			"key": 108
+			"key": 107
 		},
 		/*=================================================================================*/
     			{
@@ -2880,7 +2855,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 59,
 			"verificationVid": "https://youtu.be/Ox7xUMn2_0M",
-			"key": 109
+			"key": 108
 		},
   	/*=================================================================================*/
 		{
@@ -2911,7 +2886,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/qmVqQqkM9wQ",
-			"key": 110
+			"key": 109
 		},
 		/*=================================================================================*/				  
 		{
@@ -2942,7 +2917,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
-			"key": 111
+			"key": 110
 		},
 		/*=================================================================================*/
 		{
@@ -2961,7 +2936,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 65,
 			"verificationVid": "https://youtu.be/rKdRmj-bsYM",
-			"key": 112
+			"key": 111
 		},
 		/*=================================================================================*/
 		{
@@ -2986,7 +2961,7 @@ const d = {
 			"pass": "060320",
 			"percentToQualify": 59,
 			"verificationVid": "https://youtu.be/9UlwGcWhxp8",
-			"key": 113
+			"key": 112
 		},
 		/*=================================================================================*/
     {
@@ -3005,7 +2980,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/KJdV9hwaCw8",
-			"key": 114
+			"key": 113
 		},
 		/*=================================================================================*/
 		{
@@ -3030,7 +3005,7 @@ const d = {
 			"pass": "563562",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=w-O0aLYvGhA",
-			"key": 115
+			"key": 114
 		},
 		/*=================================================================================*/
 				{
@@ -3049,8 +3024,33 @@ const d = {
                         "pass": "Free Copy",
                         "percentToQualify": 64,
                         "verificationVid": "https://youtu.be/ByY3-YAr3pg",
-                        "key": 116
+                        "key": 115
                 },
+		/*=================================================================================*/
+    			{
+		        "vids": [
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/H7qwOPDiwhE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhy1ron",
+					"link": "https://www.youtube.com/watch?v=GLzCCCIjGbs&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=120",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty The Secret Box",
+			"author": "jOnel",
+			"more": "none",
+			"id": 64227671,
+			"pass": "Free Copy",
+			"percentToQualify": 56,
+			"verificationVid": "https://youtu.be/Dih_QOKhhYQ",
+			"key": 116
+		},
 		/*=================================================================================*/
     		{
 			"vids": [	
@@ -3259,6 +3259,25 @@ const d = {
 			"key": 125
 		},
 		/*=================================================================================*/
+    {
+			"vids": [
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/5orOclvdMWI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty The Ultimate Phase",
+			"author": "GDMeric and plastornious [GDMeric]",
+			"more": "none",
+			"id": 64708359,
+			"pass": "Free Copy",
+			"percentToQualify": 58,
+			"verificationVid": "https://www.youtube.com/watch?v=zPLn-7gn0U0",
+			"key": 126
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -3275,7 +3294,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/PcYHqZO5Bhs",
-			"key": 126
+			"key": 127
 		},
 		/*=================================================================================*/
 				{
@@ -3306,7 +3325,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=0JPGc9NLaU0",
-			"key": 127
+			"key": 128
 		},
 		/*=================================================================================*/
     		{
@@ -3343,7 +3362,7 @@ const d = {
 			"pass": "258852",
 			"percentToQualify": 56,
 			"verificationVid": "https://youtu.be/G-t338wYSUE",
-			"key": 128
+			"key": 129
 		},
 		/*=================================================================================*/
     {
@@ -3362,7 +3381,7 @@ const d = {
 			"pass": "999999",
 			"percentToQualify": 59,
 			"verificationVid": "https://youtu.be/l3UsBE9TcYo",
-			"key": 129
+			"key": 130
 		},
 		/*=================================================================================*/
     {
@@ -3381,7 +3400,7 @@ const d = {
 			"pass": "001204",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/Xrm4mC1SRT4",
-			"key": 130
+			"key": 131
 		},
 		/*=================================================================================*/
 		{
@@ -3418,7 +3437,7 @@ const d = {
                         "pass": "Free Copy",
                         "percentToQualify": 51,
                         "verificationVid": "https://youtu.be/8b5Pf4DJ8ko",
-                        "key": 131
+                        "key": 132
                 },
 		/*=================================================================================*/
 		{
@@ -3443,7 +3462,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/mwP8cANGuvQ",
-			"key": 132
+			"key": 133
 		},
 		/*=================================================================================*/
 		{
@@ -3480,7 +3499,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/s9tbL0aa21U",
-			"key": 133
+			"key": 134
 		},
 		/*=================================================================================*/
 		{
@@ -3499,7 +3518,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 56,
 			"verificationVid": "https://youtu.be/ZcfRjV3Y6eI",
-			"key": 134
+			"key": 135
 		},
 		/*=================================================================================*/
 		{
@@ -3536,7 +3555,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=6Y9PDKwLzXM",
-			"key": 135
+			"key": 136
 		},
 		/*=================================================================================*/
     {
@@ -3555,7 +3574,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 67,
 			"verificationVid": "https://youtu.be/ZEJKkffayso",
-			"key": 136
+			"key": 137
 		},
 		/*=================================================================================*/
     {
@@ -3574,7 +3593,7 @@ const d = {
 			"pass": "888888",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/NceEdig1xC8",
-			"key": 137
+			"key": 138
 		},
 		/*=================================================================================*/
     	{
@@ -3605,7 +3624,7 @@ const d = {
 			"pass": "Copy 불가",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=GCQ_3_i5xvg",
-			"key": 138
+			"key": 139
 		},
 		/*=================================================================================*/
 		{
@@ -3630,7 +3649,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/SGTKhFGp5es",
-			"key": 139
+			"key": 140
 		},
 		/*=================================================================================*/
 		{
@@ -3655,7 +3674,7 @@ const d = {
 			"pass": "008080",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=qnlbpIA9Zjg",
-			"key": 140
+			"key": 141
 		},
 		/*=================================================================================*/
 				{
@@ -3692,7 +3711,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=5UTJ5-_WQNs",
-			"key": 141
+			"key": 142
 		},
 		/*=================================================================================*/
 				  {
@@ -3717,7 +3736,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=-psODAZHoDM",
-			"key": 142
+			"key": 143
 		},
 		/*=================================================================================*/
     {
@@ -3742,7 +3761,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/8ISvmm1_JJ8",
-			"key": 143
+			"key": 144
 		},
 		/*=================================================================================*/
 		{
@@ -3761,7 +3780,7 @@ const d = {
 			"pass": "170321",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/tfjF7QWc_fg",
-			"key": 144
+			"key": 145
 		},
 		/*=================================================================================*/
 		{
@@ -3780,7 +3799,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 65,
 			"verificationVid": "https://youtu.be/0CREzKPLVQA",
-			"key": 145
+			"key": 146
 		},
 		/*=================================================================================*/
 		{
@@ -3805,7 +3824,7 @@ const d = {
                         "pass": "Free Copy",
                         "percentToQualify": 63,
                         "verificationVid": "https://youtu.be/mfegXLfQSLc",
-                        "key": 146
+                        "key": 147
                 },
 		/*=================================================================================*/
 		{
@@ -3836,7 +3855,7 @@ const d = {
 			"pass": "753951",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/Yl9sUxu9FCI",
-			"key": 147
+			"key": 148
 		},
 		/*=================================================================================*/
 				{
@@ -3873,7 +3892,7 @@ const d = {
                         "pass": "Free Copy",
                         "percentToQualify": 59,
                         "verificationVid": "https://www.youtube.com/watch?v=A-hl2gVl1aE",
-                        "key": 148
+                        "key": 149
                 },
 		/*=================================================================================*/
 		{
@@ -3910,7 +3929,7 @@ const d = {
 			"pass": "Copy 불가",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/mt9d8t6Ivyg",
-			"key": 149
+			"key": 150
 		},
 		/*=================================================================================*/
     {
@@ -3929,7 +3948,7 @@ const d = {
 			"pass": "696969",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/9c_uy-0sN2k",
-			"key": 150
+			"key": 151
 		},
     /*=================================================================================*/
 				{
@@ -3966,7 +3985,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 151
+			"key": 152
 		},
 		/*=================================================================================*/
 		{
@@ -3997,7 +4016,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=NbcF_4EgMXI",
-			"key": 152
+			"key": 153
 		},
 		/*=================================================================================*/
 		{
@@ -4028,25 +4047,6 @@ const d = {
 			"pass": "002002",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/tLox3vmoE1g",
-			"key": 153
-		},
-		/*=================================================================================*/
-    {
-			"vids": [
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/5orOclvdMWI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty The Ultimate Phase",
-			"author": "GDMeric and plastornious [GDMeric]",
-			"more": "none",
-			"id": 64708359,
-			"pass": "Free Copy",
-			"percentToQualify": 58,
-			"verificationVid": "https://www.youtube.com/watch?v=zPLn-7gn0U0",
 			"key": 154
 		},
 		/*=================================================================================*/
