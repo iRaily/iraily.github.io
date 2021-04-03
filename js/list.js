@@ -3,12 +3,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-        {
-          "user": "Pinkcotton",
-          "link": "https://youtu.be/CDZT7MgrC60",
-          "percent": 100,
-          "hz": "240hz"
-        },
       ],
 			"name": "Shitty Deimos",
 			"author": "Lupe1204 [IDeltaPhantomI]",
