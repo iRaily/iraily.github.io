@@ -1459,6 +1459,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/-aNnpir5iHs",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Fumetsu",
 			"author": "JahTheReturn",
@@ -2457,7 +2463,7 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/mXGpWbiln5s",
-					"percent": 0,
+					"percent": 100,
 					"hz": "288hz"
 				},
       ],
