@@ -2207,20 +2207,8 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Fhy1ron",
-					"link": "https://www.youtube.com/watch?v=_2KzC-qCRnY",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "LinedriveGD",
-					"link": "https://www.youtube.com/watch?v=kMQri83JPrk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
 					"user": "iRaily",
-					"link": "https://youtu.be/dTh0aX02F0w",
+					"link": "https://youtu.be/UgVYE_yBnkI",
 					"percent": 100,
 					"hz": "288hz"
 				},
