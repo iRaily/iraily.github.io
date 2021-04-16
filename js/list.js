@@ -458,7 +458,7 @@ const d = {
                 "vids": [
 				{
 					"user": "iRaily",
-					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
+					"link": "https://youtu.be/e310gpSatKg",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -614,10 +614,10 @@ const d = {
                         				{
                 "vids": [
 				{
-					"user": "ESCCA",
-					"link": "https://youtu.be/w-eUtGRN5Mg",
+					"user": "iRaily",
+					"link": "https://youtu.be/QYdbj9sIR1Y?t=111",
 					"percent": 100,
-					"hz": "165hz"
+					"hz": "288hz"
 				},
              ],
                        "name": "Shitty Chromatic Haze",
@@ -1244,6 +1244,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/XqunMg82Ia8?t=90",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty ShadoW",
 			"author": "Lupe1204 [rCyns]",
@@ -1381,6 +1387,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/QYdbj9sIR1Y",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -1399,6 +1411,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=D--qc36ziP4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/N9PCoqUt9Mk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Athanatos",
@@ -1504,6 +1522,12 @@ const d = {
 					"link": "https://youtu.be/FgmMDTXwJK0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/MWN4dmNXE9o",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty 2 1 1",
@@ -1899,7 +1923,7 @@ const d = {
 			"vids": [
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/eICyMZkRif4",
+					"link": "https://youtu.be/o2YqlLbxVfE",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -2435,7 +2459,7 @@ const d = {
 			"vids": [
         {
 					"user": "iRaily",
-					"link": "https://youtu.be/yz2siS8V0Jw?t=102",
+					"link": "https://youtu.be/Qxvart3S214",
 					"percent": 100,
 				        "hz": "288hz"
 				},
@@ -2627,7 +2651,7 @@ const d = {
 			"vids": [
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/aqcoZABXIF8",
+					"link": "https://youtu.be/sjYMC-UjoTw",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -2740,9 +2764,9 @@ const d = {
 			"vids": [
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/F2cvBBnRQNo",
+					"link": "https://youtu.be/sjYMC-UjoTw?t=135",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "288hz"
 				},
       ],
 			"name": "Shitty NecropoliX",
@@ -2803,7 +2827,7 @@ const d = {
 			"vids": [
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/YYcdf5bCHnw",
+					"link": "https://youtu.be/Qxvart3S214",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -3316,7 +3340,7 @@ const d = {
 			"vids": [	
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/F0DAd-3mQPQ",
+					"link": "https://youtu.be/Uh8SZK9gc-k",
 					"percent": 100,
 					"hz": "288hz"
 				},
